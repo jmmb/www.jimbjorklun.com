@@ -422,6 +422,58 @@ a.link6:active {
   width: 33%;
 }
 
+/* Button link #7 styles */
+
+a.link7 {
+  background-color: #d3f59d;
+  border-radius: 15px;
+  color: #000;
+  display: inline-block;
+  padding: 1em 2em;
+  text-decoration: none;
+  width: 33%;
+}
+
+a.link7:link {
+  background-color: #d3f59d;
+  border-radius: 15px;
+  color: #000;
+  display: inline-block;
+  padding: 1em 2em;
+  text-decoration: none;
+  width: 33%;
+}
+
+a.link7:visited {
+  background-color: #d3f59d;
+  border-radius: 15px;
+  color: #000;
+  display: inline-block;
+  padding: 1em 2em;
+  text-decoration: none;
+  width: 33%;
+}
+
+a.link7:hover {
+  background-color: white;
+  border-radius: 15px;
+  color: #000;
+  display: inline-block;
+  padding: 1em 2em;
+  text-decoration: none;
+  width: 33%;
+}
+
+a.link7:active {
+  background-color: #d3f59d;
+  border-radius: 15px;
+  color: #000;
+  display: inline-block;
+  padding: 1em 2em;
+  text-decoration: none;
+  width: 33%;
+}
+
 /* Footer channel icon styles */
 
 .channels {
