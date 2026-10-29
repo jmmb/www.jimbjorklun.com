@@ -116,6 +116,7 @@ a.link1 {
   border-radius: 15px;
   color: #000;
   display: inline-block;
+  margin-top: 50px;
   padding: 1em 2em;
   text-decoration: none;
   width: 33%;
@@ -324,6 +325,7 @@ a.link5 {
   border-radius: 15px;
   color: #000;
   display: inline-block;
+  margin-bottom: 50px;
   padding: 1em 2em;
   text-decoration: none;
   width: 33%;
